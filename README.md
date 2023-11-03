@@ -1,5 +1,13 @@
 # Ziglings
 
+## ⚠️ Attention! Ziglings has moved to Codeberg!
+
+Check out our handy new URL: https://ziglings.org
+
+Or visit the repo directly at: https://codeberg.org/ziglings/exercises
+
+***
+
 Welcome to Ziglings! This project contains a series of tiny
 broken programs (and one nasty surprise).  By fixing them, you'll
 learn how to read and write [Zig](https://ziglang.org/) code.
@@ -51,8 +59,8 @@ $ zig version
 Clone this repository with Git:
 
 ```
-$ git clone https://github.com/ratfactor/ziglings
-$ cd ziglings
+$ git clone https://ziglings.org
+$ cd ziglings.org
 ```
 
 Then run `zig build` and follow the instructions to begin!
@@ -114,12 +122,10 @@ Version-0.11.0-dev.4246+71dfce31b
 
 ## Advanced Usage
 
-It can be handy to check just a single exercise or _start_ from a
-single exercise:
+It can be handy to check just a single exercise:
 
 ```
 zig build -Dn=19
-zig build -Dn=19 start
 ```
 
 You can also run without checking for correctness:
