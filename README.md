@@ -220,16 +220,3 @@ Zig Standard Library
 * [X] String formatting
 * [X] Testing
 * [X] Tokenization
-
-## Contributing
-
-Contributions are very welcome! I'm writing this to teach myself
-and to create the learning resource I wished for. There will be
-tons of room for improvement:
-
-* Wording of explanations
-* Idiomatic usage of Zig
-* Additional exercises
-
-Please see [CONTRIBUTING](https://github.com/ratfactor/ziglings/blob/main/CONTRIBUTING.md)
-in this repo for the full details.
